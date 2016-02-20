@@ -1,4 +1,4 @@
-# CCC 2015 Questions Answers
+# CCC 2015 Questions and Answers
 All the questions and answers for the CCC 2015 Contest.  
 
 ##How To Use
